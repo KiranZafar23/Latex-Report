@@ -1,0 +1,202 @@
+\documentclass[12pt, twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage[headheight=15pt]{geometry}
+\geometry{a4paper, margin=1in, top=1.5in}
+\usepackage{comment}
+\usepackage{datetime}
+\usepackage{fancyhdr}
+\usepackage[export]{adjustbox}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Causes And Effects Of Floods in Pakistan}
+\cfoot{Page \thepage}
+ 
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\renewcommand*\contentsname{Table of Contents}
+ 
+
+\title{Topic: Causes and effects of floods in Pakistan}
+\date{20 December 2019}
+
+
+\begin{document}
+\begin{titlepage}
+
+\maketitle
+
+\begin{center}
+\vspace{1cm}
+\large Submitted to: Zameer Nawaz\\
+ (Senior lecturer Namal Institute Mianwali)\\
+\vspace{1cm}
+\large Submitted by: Kiran zafar\\
+\vspace{1cm}
+\large Roll No: BSCS-2019-36\\ 
+\vspace{1cm}
+\large Email: kiranzafar2019@namal.edu.pk\\
+
+\end{center}
+   
+\end{titlepage}
+\begin{abstract}
+This study aims to find possible causes of floods and to find ways by which these causes could be eliminated. In this regard statistical data from different sources has been used and organized in such a way that proper remedies could be provided. Pakistan is facing flood problem due to Heavy Rainfall, climate change, shortage of dams, deforestation and inadequate infrastructure. Many effects of floods facing by people living in Pakistan are increasing death rates, health issues, economic effects and inadequate infrastructure.
+\end{abstract}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\listoftables
+\newpage
+
+\section{Introduction}
+\subsection{Background Information}
+Flood rate have increased rapidly in the last decade. Pakistan has faced 8 floods since 2010 on the other hand it has faced 25 floods since its creation (Annual flood report 2012).The worst ever flood was in 2010 (annual flood report 2012). These floods caused a lot of damages to people living in Pakistan.From 1950 to 2011, 9643 people died, 48153422 people affected, 4537960 houses were damaged or destroyed, 5.626(million acres) crops destroyed and 172014 livestock affected (Shafiq, Farhan, and Kamran Ahsan. 2502). 30 billion US dollars lost to the economy of Pakistan during the past 60 years. There would be certain reasons behind this rapid increase. This report aims to find the causes of this problem that has such severe effects.
+\subsection{Purpose statement}
+The purpose of this report is to analyze and highlight the elements that cause floods in Pakistan and to give solutions to get rid of them. 
+\subsection{Problem statement}
+People living in Pakistan are badly affected by floods. They lose their houses and even their lives. Moreover, it also affects Pakistan financially. It is estimated that every year floods affect 715,000 people in Pakistan which causes one percent annual loss to the country’s GDP (T.Ebrahim). This report aims to find causes of these devastating floods. Data from different sources will be analyzed and solutions will be given to get rid of this problem.
+\section{Methodology}
+The report has used Qualitative data. Data was collected from research reports, journals and some international firms that provided information regarding floods. After the collection of this data, causes will be highlighted and solutions will be given.
+\section{Results and Discussion}
+\subsection{Causes of floods}
+
+Following are the some major causes of floods
+\begin{itemize}
+
+\item Heavy Rainfall
+
+\item Climate Change
+
+\item shortage of Dams
+
+\item Deforestation
+
+\end{itemize}
+\subsubsection{Heavy Rainfall}
+Heavy rainfall is the major cause of floods. In Pakistan frequency of rain is low that means high rain in short time. (Khan) When it rains, water goes into the river and drains which increases the risk of flooding. The faster the water reaches the river, the more likely it is to flood.
+
+The flood that came in 2010 was due to monsoon rain (K. M. Lau,Myong Kim) which caused a lot of damages that is given below:
+
+
+\begin{table}[h]                           
+ \centering
+    \begin{tabular}{|c|c|}
+    \multicolumn{2}{c}{\textbf{}} \\ \hline
+     Sectors    &  Damages              \\ \hline
+    Transports and Communication &   $113$             \\ \hline          
+    Irrigation   &   $24$ \\ \hline
+    Energy       &   $26$  \\ \hline
+    Agricultural &   $429$  \\ \hline
+    Education    &   $27$     \\ \hline
+
+    \end{tabular}
+    \caption{Damages by 2010 flood [3]}
+    \label{tab:msg1}                            
+\end{table}
+
+\subsubsection{Climate Change}
+As the weather changes, glaciers melt, which increases the risk of volume flow in many Pakistani rivers. Pervaiz Amir, a water expert says that risk of flooding is increasing as glaciers melt because of increasing temperature (T.Ebrahim). About 70 to 80\% of total river flows occur in summer due to snow melt and monsoonal rains (Murtaza, Ghulam, et al. 1181-1198). Due to climate change in 2012, monsoon rains caused floods that affect different provinces of Pakistan.
+
+\subsubsection{Shortage of Dams}
+One of the reasons for the floods in Pakistan is the shortage of dams. Dams are used to store water and it is calculated that dams control 17.7\% floods (Sapkota, Prakash). Pakistan is in shortage of dam, dams of Pakistan could hardly store 16\% of the total annual flow (Issues in Managing Water Challenges and Policy Instruments 2015). Benefit of dam is that whenever it rains, dams store large amount of water which not only reduces the risk of flooding but can be used to meet different needs in the future.
+
+\subsubsection{Deforestation}
+When plants are planted their roots go deep into the earth there is space created. Whenever it rains on the mountains, the water coming down goes into these spaces and the water does not go too far, which reduces the risk of flooding. But Pakistan has already very few forests that are decreasing day by day. For instance, Pakistan has total 87.98 land area (million ha) of which only 4.72 (million ha) land area is forested (Zada, Muhammad, et al. 2989).
+\begin{figure}[h]
+\includegraphics[scale=0.6, center]{Untitled1}
+\caption{Forested Area in Pakistan}
+\end{figure}
+\subsection{Effects of floods}
+
+Floods effect people in many ways that are given by:
+\begin{itemize}
+
+\item Death Rate
+
+\item Loss to Infrastructure
+
+\item Health Issues
+
+\item Agricultural Growth
+
+\item psychosocial effects
+
+\end{itemize}
+\subsubsection{Death Rate}
+Floods affect human life very badly. Many people die. The 2010 Pakistan floods directly an estimated 14-20 million people, and killed over 1,700 and at least 436 health care facilities were destroyed (Kirsch, Thomas D et al.). Even during floods it becomes very difficult to move injured people which also increases death rate.
+
+\subsubsection{Loss to Infrastructure}
+When floods come many people become homeless. They lose their farms, businesses, properties and livestock. Floods damaged an estimated 2,433 miles (3,916 km) of highway and 3,508 miles (5,646 km) of railway. Public building damage is estimated at \$$1$ billion. According to a report 5,000 schools were destroyed (Pakistan floods, 2019).
+
+\subsubsection{Health Issues}
+When floods come, they also carry with them dirt which causes many diseases to spread and people suffer from these diseases such as typhoid fever, skin diseases, cholera, nose, ear and wound infection. More than 5.7 million people were treated in 2010 flood (World Health Organization, 2019).
+
+\subsubsection{Agricultural growth}
+Agriculture plays an important role in the economy of Pakistan. Flooding destroys crops and stops their production. It is estimated that over 2 million hectares of standing crops were either lost or damaged, over 1.2 million head of livestock (excluding poultry) died due to the flood in just 2010. ( Pakistan Flood Impact Assessment)
+
+\subsubsection{psychosocial effects}
+Flood victims have psychological effects that can last long. It has the greatest impact on children who are away from their homes and feel unsafe in temporary shelters. Due to 2010 flood depression was significant in 54.4\% adults (Mubeen, Syed Muhammad, Seema Nigah-e-Mumtaz, and Saqib Gul. 111). People get away from their loved ones. Their homes, properties, businesses and crops are destroyed. The cattle die. All these losses cause people to worry.
+
+
+\section{Recommendations}
+\begin{itemize}
+    \item Plantation is one solution to control floods. People in Pakistan should plant trees instead of cutting trees so that flood control can be done.
+
+    \item Rainfall is a natural process so we couldn't control them. We could make dams which are helpful to control floods. Dams store large amount of water which not only reduces the risk of flooding but can be used to meet different needs in future.
+
+    \item Flood management could also do wonders in this regard. One of the possible solutions in flood management is reforestation. It has been said that growing trees would ultimately decrease impact of flood.
+    
+    \item The government and National Disaster Management Authority (NDMA) should follow the recommendations outlined above to avoid the damage caused by floods.
+    
+    \item People need to be mentally prepared to prevent natural disasters like floods and they should take some fore steps to lessen the damage caused by them.
+    
+    \item People leaving in areas where there are more chances of floods should transfer their personal and worthy belongings to safe places to prevent the loss caused by floods.
+    
+    \item Moreover, government should provide safe places to people of such areas to avoid the loss of many lives.
+    
+\end{itemize}
+\section{Conclusion}
+Pakistan has already endured many floods and the damage caused by it. Factors that cause floods if they are not controlled then it is feared that Pakistan will face more problems in future. So it is important for the government and National Disaster Management Authority (NDMA) to follow the recommendations outlined above. People also need to be mentally prepared to prevent natural disasters like floods.
+
+\section{References}
+\justify Annual flood report 2012, government of Pakistan of ministry of water and power, federal flood commission-Islamabad, 2012,\url{https://www.mowr.gov.pk/wp-content/uploads/2018/06/Annual- Flood-Report-2012.pdf.}Accessed 22 Dec 2019\\
+\vspace{1cm}
+\justify Annual flood report 2010, government of Pakistan of ministry of water and power, federal flood commission-Islamabad, 2012,https://www.mowr.gov.pk/wp-content/uploads/2018/06/Annual- Flood-Report-2010.pdf Accessed 22 Dec 2019\\
+\vspace{1cm}
+\justify Issues in Managing Water Challenges and Policy Instruments: Regional Perspective and Case Studies, International Monetary Fund, June2015,https://www.imf.org/external/pubs/ft/sdn/2015/sdn1511tn.pdf. Accessed December 25, 2019.\\
+\vspace{1cm}
+\justify Khan, SattarS. dw.com, DW made for minds, 09 Nov. 2017, https://www.dw.com/en/how-climate-change-is-aggravating-pakistans
+water-crisis/a-41315151. Accessed 20 Dec, 2019\\
+\vspace{1cm}
+\justify K. M. Lau, William, Kim, The 2010 Pakistan Flood and Russian Heat Wave: Teleconnection of Hydro meteorological Extremes, journals online,Feb 2012,https://journals.ametsoc.org/doi/full/10.1175/JHM-D-11-016.1, Accessed 26 Dec 2019\\
+\vspace{1cm}
+\justifu Kirsch, Thomas D et al. “Impact of the 2010 Pakistan floods on rural and urban populations at six months.” PLoS currents vol. 4 e4fdfb212d2432. 22 Aug. 2012, doi:10.1371/4fdfb212d2432\\
+\vspace{1cm}
+\justify Mubeen, Syed Muhammad, Seema Nigah-e-Mumtaz, and Saqib Gul. "Prevalence of Post- Traumatic Stress Disorder and Depression Among Flood Affected Individuals of Sindh, Pakistan: A Cross-Sectional Survey in Camps Five Months after the Flood." Pakistan Journal of Medical Research 52.4 (2013): 111.\\
+\vspace{1cm}
+\justify Murtaza, Ghulam, et al. "Mitigation of Climate Change Impacts through Treatment and Management of Low Quality Water for Irrigation in Pakistan." Environmental and Agricultural Informatics: Concepts, Methodologies, Tools, and Applications. IGI Global, 2020. 1181-1198.\\
+\vspace{1cm}
+\justify Pakistan: Flood Impact Assessment, special section 2,Finance,http://www.finance.gov.pk/survey/chapter\_11/Special\%20Section\_2.pdf, Accessed 26
+Dec 2019\\
+\vspace{1cm}
+\justify Pakistan floods, https://en.wikipedia.org/wiki/2010\_Pakistan\_floods. 1, December,2019\\
+\vspace{1cm}
+\justify Pakistan: Flood Impact Assessment, special section 2,Finance,http://www.finance.gov.pk/survey/chapter\_11/Special\%20Section\_2.pdf, Accessed 26
+Dec 2019\\
+\vspace{1cm}
+\justify Shafiq, Farhan, and Kamran Ahsan. "An ICT based early warning system for flood disasters in Pakistan." Res. J. Recent Sci. ISSN 2277 (2014): 2502.\\
+\vspace{1cm}
+\justify Sapkota, Prakash. "Sustainable Riverine Flood Risk Management." (2017).\\
+\vspace{1cm} 
+\justify T.Ebrahim, Zofeen, Pakistan’s new plan to embrace floods, Dawn.com, 30 july 2015,https://www.dawn.com/news/1197349 ,Accessed 26 Dec 2019\\
+\vspace{1cm}
+\justify Zada, Muhammad, et al. &quot;Impact of Small-to-Medium Size Forest Enterprises on Rural Livelihood: Evidence from Khyber-Pakhtunkhwa, Pakistan.&quot; Sustainability 11.10 (2019): 2989.\\
+
+\end{document}
+
